@@ -46,13 +46,14 @@ APP service URL:  https://madhhirahotel.azurewebsites.net
 <img width="1070" alt="m service4" src="https://user-images.githubusercontent.com/117923192/209913741-a7f6e5ec-1aec-43bd-9d06-e0c9bedc0688.png">
 ## cantact
 <img width="1069" alt="m contat1" src="https://user-images.githubusercontent.com/117923192/209913794-80173ea1-c416-4ecd-a9f7-9b0d692efe1a.png">
-
 <img width="1067" alt="m contact2" src="https://user-images.githubusercontent.com/117923192/209913809-8534b9b5-6301-4f92-b9df-a181986ecdc8.png">
 <img width="1069" alt="m contact3" src="https://user-images.githubusercontent.com/117923192/209913816-c5699e48-a612-4cdc-8a27-e78ff31b0233.png">
 ##Care bot
 <img width="1080" alt="m bot1" src="https://user-images.githubusercontent.com/117923192/209913890-aa8535fd-85ef-421c-8da2-587e48ebd269.png">
 <img width="1078" alt="m bot2" src="https://user-images.githubusercontent.com/117923192/209913901-fe4167ac-c5c3-40fd-9c1b-7fd326185d64.png">
 ## azure services
-<img width="1079" alt="m aazzuurr" src="https://user-images.githubusercontent.com/117923192/209962077-59f09855-1684-4ac5-a3ce-0fb66ddc1c1a.png"
+<img width="1071" alt="m azurefinal" src="https://user-images.githubusercontent.com/117923192/209962976-5b5dbb95-1ad3-496e-a9d1-2e6af8a9d142.png">
+
+
 
 
