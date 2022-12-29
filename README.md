@@ -53,7 +53,6 @@ APP service URL:  https://madhhirahotel.azurewebsites.net
 <img width="1080" alt="m bot1" src="https://user-images.githubusercontent.com/117923192/209913890-aa8535fd-85ef-421c-8da2-587e48ebd269.png">
 <img width="1078" alt="m bot2" src="https://user-images.githubusercontent.com/117923192/209913901-fe4167ac-c5c3-40fd-9c1b-7fd326185d64.png">
 ## azure services
-<img width="1079" alt="m aazzuurr" src="https://user-images.githubusercontent.com/117923192/209959721-7cc1a0b3-f904-40fe-bcd3-df693dc9ca6c.pn>
-
+<img width="1079" alt="m aazzuurr" src="https://user-images.githubusercontent.com/117923192/209962077-59f09855-1684-4ac5-a3ce-0fb66ddc1c1a.png"
 
 
