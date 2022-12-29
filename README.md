@@ -1,5 +1,5 @@
 # madhira-for-frt
-# Madhira hotals
+# Madhira Hotals
 ## finalpro:Future Ready Talent Project By Madhira Mrudula
 ## Hotels and Restaurants Category Responsive Website 
 
@@ -11,7 +11,7 @@ IDE           : VS-Code
 
 Industry      : Lifestyle
 
-Project Title : Madhira hotals
+Project Title : Madhira Hotals
 
 Problem Statement/Opportunity : Best hotels  are  need for evrey person.
 
