@@ -17,11 +17,13 @@ Problem Statement/Opportunity : Best hotels  are  need for evrey person.
 
 Project Description           :  Best lifestyle  Will give the Best health Results.
 
-Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
+Primary Azure Technology      :  Static Web Apps, Azure Health Bot and APP service.
 
 Static Web App URL :  https://zealous-meadow-09160df10.2.azurestaticapps.net
 
 Azure Health Bot URL : https://zealous-meadow-09160df10.2.azurestaticapps.net/bot.html
+
+APP service URL:  https://madhhirahotel.azurewebsites.net
 
 ## MY WEBSITE LINK IS : https://zealous-meadow-09160df10.2.azurestaticapps.net
 
@@ -51,10 +53,7 @@ Azure Health Bot URL : https://zealous-meadow-09160df10.2.azurestaticapps.net/bo
 <img width="1080" alt="m bot1" src="https://user-images.githubusercontent.com/117923192/209913890-aa8535fd-85ef-421c-8da2-587e48ebd269.png">
 <img width="1078" alt="m bot2" src="https://user-images.githubusercontent.com/117923192/209913901-fe4167ac-c5c3-40fd-9c1b-7fd326185d64.png">
 ## azure services
-<img width="1080" alt="m  azure" src="https://user-images.githubusercontent.com/117923192/209913948-6b2e078c-5ca2-4738-8c37-766607b060d1.png">
-
-
-
+<img width="1079" alt="m aazzuurr" src="https://user-images.githubusercontent.com/117923192/209959721-7cc1a0b3-f904-40fe-bcd3-df693dc9ca6c.pn>
 
 
 
