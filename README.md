@@ -13,7 +13,7 @@ Industry      : Lifestyle
 
 Project Title : Madhira hotals
 
-Problem Statement/Opportunity : Best hotels  Is needed for evrey person.
+Problem Statement/Opportunity : Best hotels  are  need for evrey person.
 
 Project Description           :  Best lifestyle  Will give the Best health Results.
 
