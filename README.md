@@ -19,11 +19,19 @@ Project Description           :  RELAX IN OUR RESORT.
 
 Primary Azure Technology      :  1)Static Web Apps,  2)Azure Health Bot,  3)APP service.
 
+
+
 Static Web App URL :  https://zealous-meadow-09160df10.2.azurestaticapps.net
 
 Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL : https://zealous-meadow-09160df10.2.azurestaticapps.net/bot.html
 
 APP service URL:  https://madhhirahotel.azurewebsites.net
+
+
+
+project demo video URL:
+
+
 
 ## MY WEBSITE LINK IS : https://zealous-meadow-09160df10.2.azurestaticapps.net
 
