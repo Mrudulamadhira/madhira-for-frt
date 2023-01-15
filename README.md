@@ -15,7 +15,7 @@ Project Title : Madhira Hotals
 
 Problem Statement/Opportunity : Best hotels  are  need for evrey person.
 
-Project Description           :  RELAX IN OUR RESORTS.
+Project Description           :  RELAX IN OUR RESORT.
 
 Primary Azure Technology      :  Static Web Apps, Azure Health Bot and APP service.
 
