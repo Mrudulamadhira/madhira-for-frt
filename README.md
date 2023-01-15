@@ -21,7 +21,7 @@ Primary Azure Technology      :  Static Web Apps, Azure Health Bot and APP servi
 
 Static Web App URL :  https://zealous-meadow-09160df10.2.azurestaticapps.net
 
-Azure Health Bot URL : https://zealous-meadow-09160df10.2.azurestaticapps.net/bot.html
+Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL : https://zealous-meadow-09160df10.2.azurestaticapps.net/bot.html
 
 APP service URL:  https://madhhirahotel.azurewebsites.net
 
