@@ -17,7 +17,7 @@ Problem Statement/Opportunity : Best hotels  are  need for evrey person.
 
 Project Description           :  RELAX IN OUR RESORT.
 
-Primary Azure Technology      :  Static Web Apps, Azure Health Bot and APP service.
+Primary Azure Technology      :  1)Static Web Apps,  2)Azure Health Bot,  3)APP service.
 
 Static Web App URL :  https://zealous-meadow-09160df10.2.azurestaticapps.net
 
