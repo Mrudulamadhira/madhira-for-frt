@@ -71,9 +71,9 @@ APP service URL:  https://madhhirahotel.azurewebsites.net
 
 
 ## azure services
+<img width="1080" alt="M azre" src="https://user-images.githubusercontent.com/117923192/212538356-34b0896a-3344-4b1b-8436-acf63894e024.png">
 
 
-<img width="1071" alt="m azurefinal" src="https://user-images.githubusercontent.com/117923192/209962976-5b5dbb95-1ad3-496e-a9d1-2e6af8a9d142.png">
 
 
 
