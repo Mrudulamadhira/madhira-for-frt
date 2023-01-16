@@ -44,7 +44,7 @@ project demo video URL:
 <img width="1067" alt="m home6" src="https://user-images.githubusercontent.com/117923192/209913589-3c78910c-be43-450c-9b8a-64db871ecd7d.png">
 
 
-## about
+## HOME/about
 
 
 <img width="1066" alt="m about1" src="https://user-images.githubusercontent.com/117923192/209913636-56d8bfd3-a3d1-4d2b-9a07-619f9ac3306b.png">
@@ -54,7 +54,7 @@ project demo video URL:
 <img width="1067" alt="m about5" src="https://user-images.githubusercontent.com/117923192/209913672-6782964d-8eb9-428b-befa-fc01a756da37.png">
 
 
-## service
+## HOME/service
 
 
 <img width="1067" alt="m service1" src="https://user-images.githubusercontent.com/117923192/209913713-ceb6a791-08c7-4e56-841d-796e982f0d92.png">
@@ -63,7 +63,7 @@ project demo video URL:
 <img width="1068" alt="M SERVICE LAST" src="https://user-images.githubusercontent.com/117923192/212538222-09352361-9e24-413c-ac96-56852edd0d94.png">
 
 
-## cantact
+## HOME/cantact
 
 
 <img width="1069" alt="m contat1" src="https://user-images.githubusercontent.com/117923192/209913794-80173ea1-c416-4ecd-a9f7-9b0d692efe1a.png">
@@ -71,7 +71,7 @@ project demo video URL:
 <img width="1067" alt="M CONTACT LAST" src="https://user-images.githubusercontent.com/117923192/212538227-00ec7cc6-1a5b-4c9a-a33b-e33b122f1e27.png">
 
 
-##  Care bot
+##  HOME/Care bot
 
 
 <img width="1080" alt="m bot1" src="https://user-images.githubusercontent.com/117923192/209913890-aa8535fd-85ef-421c-8da2-587e48ebd269.png">
