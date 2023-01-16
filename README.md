@@ -54,8 +54,7 @@ project demo video URL: https://drive.google.com/drive/folders/11gZRbz85ce4uTq-5
 <img width="1067" alt="m about2" src="https://user-images.githubusercontent.com/117923192/209913647-167afee1-ee89-483f-b328-2c314f121cfc.png">
 <img width="1067" alt="m about3" src="https://user-images.githubusercontent.com/117923192/209913654-0061f7a8-adf5-44d4-975a-189ccb7f7d20.png">
 <img width="1067" alt="m about4" src="https://user-images.githubusercontent.com/117923192/209913662-b13d19e5-220c-42d4-91dd-61e8c0260e26.png">
-<img width="1067" alt="m about5" src="https://user-images.githubusercontent.com/117923192/209913672-6782964d-8eb9-428b-befa-fc01a756da37.png">
-
+<img width="1068" alt="m about newlast" src="https://user-images.githubusercontent.com/117923192/212589438-fc160e9a-13fc-41f2-b55c-322a2d16be1a.png">
 
 ## HOME/service
 
