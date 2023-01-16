@@ -17,7 +17,7 @@ Problem Statement/Opportunity : Best hotels  are  need for evrey person.
 
 Project Description           :  RELAX IN OUR RESORT.
 
-Primary Azure Technology      :  1)Static Web Apps,  2)Azure Health Bot,  3)APP service.
+Primary Azure Technology      :  1)Static Web Apps,  2)Azure Health Bot,  3)App Service.
 
 
 ................................................................................................................................................................
