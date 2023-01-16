@@ -1,6 +1,6 @@
 # madhira-for-frt
 # Madhira Hotals
-## finalpro:Future Ready Talent Project By Madhira Mrudula
+## finalpro:Future Ready Talent Project By Madhira.Mrudula
 ## Hotels and Restaurants Category Responsive Website 
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
